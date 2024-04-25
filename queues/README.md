@@ -12,4 +12,4 @@ Is ordered and unchangeable,they are used to store multiple items in single vari
 <h2>Stack<h2>
 <p>A stack is a linear data structure that follows the last-in,first-out principle (LIFO)
  the element that was inserted last will be removed first.<P>
-<h2>Queues<h2>
+<h2>Queues<h2># data_science2
